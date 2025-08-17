@@ -1,0 +1,31 @@
+name : vishnu
+
+age : 66
+
+server : 
+  name : server1
+  capacity : 60
+
+maharashtra : 
+  thane :
+    badlapur : city
+
+topwebsite : 
+  - www.google.com
+  - www.amazon.com
+  - www.flipcart.com
+  - www.facebook.com
+  - www.meta.com
+
+multilinestring : |
+  this is 
+  multilinestring
+  content
+
+list_of_server : 
+  - server1 :
+      name : ec2
+      volume : 34gb
+  - server2 :
+      name : ecr
+      volume : 10gb

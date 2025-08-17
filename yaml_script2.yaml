@@ -1,0 +1,12 @@
+india : 
+  - east :
+      bangal : 1
+  - west :
+      mumbai : 2
+      rajesthan : 2
+  - north :
+      up : 3
+      bihar : 3
+  - south : 
+      bangalore : 4
+      chennai : 4
